@@ -7,7 +7,7 @@
 ![AA](https://img.shields.io/badge/AA-Zero%20(No--AA)-blue?style=flat-square)
 
 <br>
-<img width="559" height="136" alt="001" src="https://github.com/user-attachments/assets/6d46085c-2b46-4d34-835b-de97f2b28f7c" style="margin-top: 20px; margin-bottom: 20px;">
+<img width="559" height="136" alt="001" src="https://github.com/miiimeworks/M4T/blob/main/4bit_Enhanced/Id/Neon/4b_136_0_G.png?raw=true" style="margin-top: 20px; margin-bottom: 20px;">
 <br><br>
 
 A unified structure combining the English "MIIIME" and the Korean "ㅁㅣㅣㅣㅁㅓㅣㅣ".  
@@ -43,7 +43,7 @@ Visualization under the premise of 4-Bit Brutalism.
 - 디지털 픽셀의 사각형 자체를 미학의 정체성으로 추구합니다.
 
 <br>
-<img width="562" height="563" alt="002c" src="https://github.com/user-attachments/assets/c169b8a1-9b0e-4cad-930a-d952728e6358" />
+<img width="562" height="563" alt="002c" src="https://github.com/miiimeworks/M4T_Dev/blob/main/Preview/002a.png?raw=true" />
 <br><br>
 
 ---
@@ -56,7 +56,7 @@ Visualization under the premise of 4-Bit Brutalism.
 **[4-Bit 부르탈 팩]**
 - 팔레트 : 시스템 기본 16색 팔레트를 가공하지 않고 그대로 사용.
 
-<img width="160" height="10" alt="4bit_Brutal" src="https://github.com/user-attachments/assets/2e24b1c9-95b2-47cf-9351-6c1c282f49c5" />
+<img width="160" height="10" alt="4bit_Brutal" src="https://github.com/miiimeworks/M4T/blob/main/Palette/4bit_Brutal.png?raw=true" />
 <br><br>
 
 | Assets | Specifications |
@@ -71,7 +71,7 @@ Visualization under the premise of 4-Bit Brutalism.
 **[4-Bit 그레이 강화 팩]**
 - 팔레트 : 시스템 기본 16색 팔레트의 그레이톤을 보강.
 
-<img width="160" height="10" alt="4bit_Enhanced" src="https://github.com/user-attachments/assets/863a9f62-386f-4e83-9609-90deb3d82a12" />
+<img width="160" height="10" alt="4bit_Enhanced" src="https://github.com/miiimeworks/M4T/blob/main/Palette/4bit_Enhanced.png?raw=true" />
 <br><br>
 
 | Assets | Specifications |
@@ -82,11 +82,11 @@ Visualization under the premise of 4-Bit Brutalism.
 
 <br>
 
-<img width="562" height="965" alt="001" src="https://github.com/user-attachments/assets/97bea822-ffa8-4ea2-a670-f34b68d115dd" /> 
+<img width="562" height="965" alt="001" src="https://github.com/miiimeworks/M4T/blob/main/Preview/003.png?raw=true" /> 
 <br> 
-<img width="770" height="909" alt="004a" src="https://github.com/user-attachments/assets/a744fc52-9e5d-4f84-97d7-daf531b8217f" /> 
+<img width="770" height="909" alt="004a" src="https://github.com/miiimeworks/M4T/blob/main/Preview/004a.png?raw=true" /> 
 <br>
-<img width="541" height="1294" alt="20260201_205129" src="https://github.com/user-attachments/assets/891247a4-adac-4736-97aa-807df3e8ff1d" />
+<img width="541" height="1294" alt="20260201_205129" src="https://github.com/miiimeworks/M4T/blob/main/Preview/005.png?raw=true" />
 <br>
 
 ---
@@ -96,7 +96,7 @@ Visualization under the premise of 4-Bit Brutalism.
 ### 1. MIIIME Tools UI Basic Pack
 
 
-<img width="80" height="10" alt="MIIIME-Tools-UI_Datk_001" src="https://github.com/user-attachments/assets/99b37502-bedc-4cbb-bae2-40835f3d15a6" />
+<img width="80" height="10" alt="MIIIME-Tools-UI_Datk_001" src="https://github.com/miiimeworks/M4T/blob/main/Palette/MIIIME-Tools-UI_Datk_001.png?raw=true" />
 <br><br>
 
 
@@ -114,7 +114,7 @@ Visualization under the premise of 4-Bit Brutalism.
 
 ### 1. MIIIME Tools UI Primary Enhanced Pack
 
-<img width="120" height="10" alt="MIIIME-Tools-UI_Datk_002" src="https://github.com/user-attachments/assets/0b0abe42-ab4c-49c4-9aa2-4f4bc6eedb5d" />
+<img width="120" height="10" alt="MIIIME-Tools-UI_Datk_002" src="https://github.com/miiimeworks/M4T/blob/main/Palette/MIIIME-Tools-UI_Datk_002.png?raw=true" />
 <br><br>
 
 | Category | Item | HEX Code | RGB Value |
@@ -154,7 +154,7 @@ This is a **private project**. No technical support is provided.
 **Last Update** : 2026-02-14  
 
 <br>
-<img width="64" height="64" alt="002" src="https://github.com/user-attachments/assets/bbe6602c-b38f-4db5-b7cd-3e4cbc2e4f86">  
+<img width="64" height="64" alt="002" src="https://github.com/miiimeworks/M4T/blob/main/4bit_Brutal/Logo/Neon/4b_Mium_64_0_G.png?raw=true">  
 <br>
 <br>
 <br>
