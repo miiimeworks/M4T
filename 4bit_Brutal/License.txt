@@ -1,0 +1,19 @@
+View-Only & Non-Commercial License (Portfolio Only) 
+Copyright © 2026 MIIIME (https://www.miiime.com)
+
+1. This project is provided for portfolio viewing and reference purposes only.
+2. Any use, including but not limited to copying, modifying, distributing, or incorporating into other projects (commercial or non-commercial), is strictly prohibited without prior written consent from the author.
+3. Redistribution of any part of this repository is not allowed.
+4. All intellectual property rights, including icons, logos, and source code, belong exclusively to MIIIME.
+5. THE SOFTWARE/ASSETS ARE PROVIDED "AS IS".
+
+------------------------------------------------------------------------
+
+열람 및 비상업적 참고용 라이선스 (포트폴리오 전용) 
+저작권 © 2026 MIIIME (https://www.miiime.com)
+
+1. 본 프로젝트는 포트폴리오 열람 및 참고용으로만 제공됩니다.
+2. 저작권자(MIIIME)의 사전 서면 동의 없이 본 자산(아이콘, 로고 등)을 복제, 수정, 배포하거나 다른 프로젝트(상업/비상업 불문)에 사용하는 행위를 엄격히 금지합니다.
+3. 본 저장소에 포함된 모든 파일의 무단 재배포를 금지합니다.
+4. 제공된 모든 디자인 자산 및 코드에 대한 지식재산권은 제작자(MIIIME)에게 귀속됩니다.
+5. 모든 결과물은 "있는 그대로" 제공되며, 제작자는 사용 결과에 대해 어떠한 책임도 지지 않습니다.

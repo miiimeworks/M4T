@@ -1,0 +1,49 @@
+
+2026-02-23
+
+MIIIME Tools UI 
+Basic (Dark)
+
+배경 		:	272727 / 39,39,39
+글자 활성		:	E0E0E0 / 224,224,224
+글자 비활성 	:	888888 / 136,136,136
+글자 검정		:	0A0A0A / 10,10,10
+
+* 아이콘 및 로고 색상은 기존 유지 : 3번 그레이에 272727 적용시 심하게 어두움
+
+미메툴즈 UI 베이직 (다크)
+
+---
+
+| Category | Item | HEX Code | RGB Value |
+| --- | --- | --- | --- |
+| Background | Main Surface | #272727 | 39, 39, 39 |
+| Typography | Active | #E0E0E0 | 224, 224, 224 |
+| Typography | Inactive | #888888 | 136, 136, 136 |
+| Typography | Deep Gray | #0A0A0A | 10, 10, 10 |
+| Line | Active | #0078D7 | 0, 120, 215 | 
+| Line | Inactive | #888888 | 136, 136, 136 | 
+| White | White | #FFFFFF | 255, 255, 255 | 
+| Black | Black | #000000 | 0, 0, 0 | 
+
+| Category | Item | HEX Code | RGB Value |
+| --- | --- | --- | --- |
+| Background | Main Surface | #272727 | 39, 39, 39 |
+| Typography | Active | #E0E0E0 | 224, 224, 224 |
+| Typography | Inactive | #888888 | 136, 136, 136 |
+| Typography | Deep Gray | #0A0A0A | 10, 10, 10 |
+| Line | Active | #0078D7 | 0, 120, 215 | 
+| Line | Inactive | #888888 | 136, 136, 136 | 
+| White | White | #FFFFFF | 255, 255, 255 | 
+| Black | Black | #000000 | 0, 0, 0 | 
+| Primary | Blue | #0080FF | 0, 128, 255 | 
+| Primary | Pink | #D020D0 | 208, 32, 208 | 
+| Primary | Red | #FF0000 | 255, 0, 0 | 
+| Primary | Violet | #8A00FC | 138, 0, 252 | 
+
+
+
+
+
+
+
