@@ -60,7 +60,7 @@ Visualization under the premise of 4-Bit Brutalism.
 - MIIIME Tools는 크기 변경을 지원하지 않음.
 - 면밀한 고민 하에 결정된 가장 최적화된 사이즈로 고정.
 
-### 7. No Menu Bar — INI-Based Configuration
+### 6. No Menu Bar — INI-Based Configuration
 - Menu bar is not supported.
 - INI file is used as the default configuration method.
 - Checkboxes are used where necessary.
