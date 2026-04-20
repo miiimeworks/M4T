@@ -71,7 +71,7 @@ Visualization under the premise of 4-Bit Brutalism.
 - 필요 시 체크박스를 활용.
 
 <br>
-<img width="562" height="563" alt="002c" src="https://github.com/miiimeworks/M4T_Dev/blob/main/Preview/002a.png?raw=true" />
+<img width="562" height="563" alt="002c" src="https://github.com/miiimeworks/M4T/blob/main/Preview/002a.png?raw=true" />
 <br><br>
 
 ---
