@@ -106,6 +106,8 @@ Visualization under the premise of 4-Bit Brutalism.
 | Logo (png-8) | Mono, Neon                                                  |
 | Icons (ico)  | 16x16, 32x32, 48x48, 64x64 (Favicon, Folder, Program, Exit) |
 | Variants     | Mono, Neon, Neon Alter                                      |
+<br>
+
 
 ### 2. 4-Bit Gray Enhanced Pack
 
@@ -123,6 +125,7 @@ Visualization under the premise of 4-Bit Brutalism.
 | Logo (png-8) | Mono, Neon                                                  |
 | Icons (ico)  | 16x16, 32x32, 48x48, 64x64 (Favicon, Folder, Program, Exit) |
 | Variants     | Mono, Neon, Neon Alter                                      |
+<br>
 
 <br>
 
@@ -131,6 +134,7 @@ Visualization under the premise of 4-Bit Brutalism.
 <img width="541" height="1294" alt="20260201_205129" src="https://github.com/miiimeworks/M4T/blob/main/Preview/005.png?raw=true" />
 <br>
 
+
 ---
 
 ## UI Theme Packages
@@ -138,7 +142,8 @@ Visualization under the premise of 4-Bit Brutalism.
 ### 1. MIIIME Tools UI Basic Pack
 
 <img width="80" height="10" alt="MIIIME-Tools-UI_Datk_001" src="https://github.com/miiimeworks/M4T/blob/main/Palette/MIIIME-Tools-UI_Datk_001.png?raw=true" />
-<br><br>
+<br>
+<br>
 
 | Category   | Item         | HEX Code | RGB Value     |
 | ---------- | ------------ | -------- | ------------- |
@@ -150,11 +155,13 @@ Visualization under the premise of 4-Bit Brutalism.
 | Line       | Inactive     | #888888  | 136, 136, 136 |
 | White      | White        | #FFFFFF  | 255, 255, 255 |
 | Black      | Black        | #000000  | 0, 0, 0       |
+<br>
 
 ### 1. MIIIME Tools UI Primary Enhanced Pack
 
 <img width="120" height="10" alt="MIIIME-Tools-UI_Datk_002" src="https://github.com/miiimeworks/M4T/blob/main/Palette/MIIIME-Tools-UI_Datk_002.png?raw=true" />
-<br><br>
+<br>
+<br>
 
 | Category   | Item         | HEX Code | RGB Value     |
 | ---------- | ------------ | -------- | ------------- |
@@ -170,6 +177,7 @@ Visualization under the premise of 4-Bit Brutalism.
 | Primary    | Pink         | #D020D0  | 208, 32, 208  |
 | Primary    | Red          | #FF0000  | 255, 0, 0     |
 | Primary    | Violet       | #8A00FC  | 138, 0, 252   |
+<br>
 
 <br>
 
