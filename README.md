@@ -99,7 +99,7 @@ Visualization under the premise of 4-Bit Brutalism.
 - 팔레트 : 시스템 기본 16색 팔레트를 가공하지 않고 그대로 사용.
 
 <img width="160" height="10" alt="4bit_Brutal" src="https://github.com/miiimeworks/M4T/blob/main/Palette/4bit_Brutal.png?raw=true" />
-<br><br>
+<br>
 
 | Assets       | Specifications                                              |
 | ------------ | ----------------------------------------------------------- |
@@ -118,7 +118,7 @@ Visualization under the premise of 4-Bit Brutalism.
 - 팔레트 : 시스템 기본 16색 팔레트의 그레이톤을 보강.
 
 <img width="160" height="10" alt="4bit_Enhanced" src="https://github.com/miiimeworks/M4T/blob/main/Palette/4bit_Enhanced.png?raw=true" />
-<br><br>
+<br>
 
 | Assets       | Specifications                                              |
 | ------------ | ----------------------------------------------------------- |
@@ -143,7 +143,6 @@ Visualization under the premise of 4-Bit Brutalism.
 
 <img width="80" height="10" alt="MIIIME-Tools-UI_Datk_001" src="https://github.com/miiimeworks/M4T/blob/main/Palette/MIIIME-Tools-UI_Datk_001.png?raw=true" />
 <br>
-<br>
 
 | Category   | Item         | HEX Code | RGB Value     |
 | ---------- | ------------ | -------- | ------------- |
@@ -160,7 +159,6 @@ Visualization under the premise of 4-Bit Brutalism.
 ### 1. MIIIME Tools UI Primary Enhanced Pack
 
 <img width="120" height="10" alt="MIIIME-Tools-UI_Datk_002" src="https://github.com/miiimeworks/M4T/blob/main/Palette/MIIIME-Tools-UI_Datk_002.png?raw=true" />
-<br>
 <br>
 
 | Category   | Item         | HEX Code | RGB Value     |
