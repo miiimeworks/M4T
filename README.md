@@ -84,7 +84,7 @@ Visualization under the premise of 4-Bit Brutalism.
 
 <br>
 <img width="562" height="563" alt="002a" src="https://github.com/miiimeworks/M4T/blob/main/Preview/002a.png?raw=true" />
-<br><br>
+<br>
 
 ---
 
