@@ -1,6 +1,6 @@
 # MIIIME 4-Bit Themes (M4T™)
 
-### 4-Bit Brutalism
+### 4-Bit Brutalism · 4비트 원시주의 
 
 ![OS](https://img.shields.io/badge/Platform-Windows-0078D4?logo=windows&style=flat-square)
 ![Logic](https://img.shields.io/badge/Logic-4--Bit%20Primitive-0078D4?style=flat-square)
@@ -71,7 +71,7 @@ Visualization under the premise of 4-Bit Brutalism.
 - 필요 시 체크박스를 활용.
 
 <br>
-<img width="562" height="563" alt="002c" src="https://github.com/miiimeworks/M4T/blob/main/Preview/002a.png?raw=true" />
+<img width="562" height="563" alt="002a" src="https://github.com/miiimeworks/M4T/blob/main/Preview/002a.png?raw=true" />
 <br><br>
 
 ---
@@ -164,11 +164,10 @@ Visualization under the premise of 4-Bit Brutalism.
 
 ## Disclaimer
 
-Provided **“AS IS”**, without warranty.  
-This is a **private project**. No technical support is provided.
+This content is for introductory purposes only.  
+It cannot be used without permission.
 
-본 프로그램은 **“있는 그대로”** 제공되며, 사용 중 발생하는 문제에 대해 제작자는 책임을 지지 않습니다.  
-기술 지원은 제공되지 않습니다.
+본 내용은 소개용 자료입니다. 허락없이 사용할 수 없습니다.
 
 ---
 
